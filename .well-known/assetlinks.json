@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.imike1981.diceonline",
+      "sha256_cert_fingerprints": [
+        "E3:53:5E:78:0F:AB:BD:9B:EB:25:62:7C:53:3B:90:3F:46:00:DC:85:57:F8:01:A8:37:ED:41:D5:90:6F:F3:C1"
+      ]
+    }
+  }
+]
